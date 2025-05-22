@@ -1,0 +1,4 @@
+../Drivers/DHT/dht.c:7:6:DHT_begin	4
+../Drivers/DHT/dht.c:31:12:DHT_readData	10
+../Drivers/DHT/dht.c:83:7:DHT_ReadTemperature	2
+../Drivers/DHT/dht.c:93:7:DHT_ReadHumidity	2
